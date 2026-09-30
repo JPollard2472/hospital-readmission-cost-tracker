@@ -1,13 +1,8 @@
-# hospital-readmission-cost-tracker
-Automated Python + SQL pipeline estimating $186M in avoidable Medicare readmission costs
 # Hospital Readmission Cost Tracker
-
 **An automated Python + SQL pipeline that turns public Medicare data into an estimate of avoidable readmission costs, and shows where hospitals should focus to reduce them.**
 
 ## Key findings
-
 Using CMS data on 2,833 U.S. hospitals (performance period July 2021 – June 2024):
-
 - **$186M in estimated avoidable readmission costs** over the 3-year window, about $62M a year
 - **12,245 readmissions** above what CMS expects, given each hospital's patient mix
 - **Half the cost sits in 219 hospitals**, under 8% of those measured
