@@ -1,3 +1,4 @@
+
 # Hospital Readmission Cost Tracker
 **An automated Python + SQL pipeline that turns public Medicare data into an estimate of avoidable readmission costs, and shows where hospitals should focus to reduce them.**
 
@@ -48,3 +49,4 @@ Python (pandas, requests) · SQL (SQLite) · Google Colab · Excel · Tableau ·
 
 ---
 *Built by Jadon Pollard · September 2026*
+
