@@ -1,0 +1,7 @@
+condition_code,condition_name,hospitals_measured,hospitals_worse_than_expected,pct_worse,excess_readmissions,est_excess_cost,pct_of_total_cost
+AMI,Heart attack,1736,862,49.7,1130.0,17182920.0,9.2
+CABG,Bypass surgery (CABG),878,438,49.9,341.0,5182017.0,2.8
+COPD,COPD,2323,1097,47.2,1072.0,16290234.0,8.8
+HF,Heart failure,2621,1282,48.9,4856.0,73813393.0,39.7
+HIP-KNEE,Hip/knee replacement,1447,693,47.9,321.0,4875753.0,2.6
+PN,Pneumonia,2715,1271,46.8,4526.0,68787115.0,37.0

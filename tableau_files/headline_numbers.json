@@ -1,0 +1,79 @@
+{
+  "hospitals_measured": 2833,
+  "hospitals_worse_than_expected": 2358,
+  "pct_worse": 83.2,
+  "excess_readmissions": 12245,
+  "est_excess_cost": 186131432.0,
+  "top_condition": [
+    "Heart failure",
+    39.7
+  ],
+  "top_state": [
+    "FL",
+    21607586.0
+  ],
+  "savings_if_half_gap_closed": 93065716.0,
+  "period": [
+    "07/01/2021",
+    "06/30/2024"
+  ],
+  "conditions": [
+    [
+      "Heart failure",
+      73813393.0,
+      48.9
+    ],
+    [
+      "Pneumonia",
+      68787115.0,
+      46.8
+    ],
+    [
+      "Heart attack",
+      17182920.0,
+      49.7
+    ],
+    [
+      "COPD",
+      16290234.0,
+      47.2
+    ],
+    [
+      "Bypass surgery (CABG)",
+      5182017.0,
+      49.9
+    ],
+    [
+      "Hip/knee replacement",
+      4875753.0,
+      47.9
+    ]
+  ],
+  "top_states": [
+    [
+      "FL",
+      21607586.0,
+      93.9
+    ],
+    [
+      "CA",
+      19434851.0,
+      89.3
+    ],
+    [
+      "NY",
+      13239558.0,
+      85.5
+    ],
+    [
+      "MA",
+      12351400.0,
+      90.4
+    ],
+    [
+      "NJ",
+      10754154.0,
+      93.4
+    ]
+  ]
+}

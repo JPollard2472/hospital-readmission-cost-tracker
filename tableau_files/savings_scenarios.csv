@@ -1,0 +1,4 @@
+reduction_pct,scenario,readmissions_avoided,est_savings
+0.25,25% of gap closed,3061.0,46532858.0
+0.5,50% of gap closed,6123.0,93065716.0
+1.0,100% of gap closed,12245.0,186131432.0
